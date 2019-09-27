@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One|Indie+Flower|Notable|Permanent+Marker|Satisfy|Vollkorn&display=swap');
 
-#img-header{
-    width: 100%;
-    
-
-}
-
-
 .div-header{
     /*border: 5px solid orangered; */
     text-align: center;
@@ -65,16 +58,12 @@
 .div-header a:hover{
     transform: scale(1.05);
 
+
 }
-
-.div-rodape {
-    margin: 80px;
-    
-}
-
-
    
 
 
-
+    
+}
+}
 
